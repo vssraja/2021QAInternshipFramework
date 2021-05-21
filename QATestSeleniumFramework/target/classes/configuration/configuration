@@ -1,0 +1,4 @@
+username=Admin
+password=admin123
+url=https://opensource-demo.orangehrmlive.com/
+driverpath=C:\Users\vssra\eclipse-workspace\QATestSeleniumFramework\src\main\java\drivers\chromedriver.exe
